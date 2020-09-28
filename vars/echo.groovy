@@ -1,3 +1,3 @@
 def  hello(){
-　　prinln("hello world")
+　　println("hello world")
 }
