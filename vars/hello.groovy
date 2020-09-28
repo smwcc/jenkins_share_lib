@@ -1,3 +1,3 @@
-def  hello(){
+def  call(){
 　　println("hello world")
 }
